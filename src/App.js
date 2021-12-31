@@ -202,7 +202,7 @@ function mostPhotosTaken(){
       person:people[0]
     },
     max: people[0].count,
-    audio:'wow-1.ogg',
+    audio:'ogo.ogg',
     stages:4
   })
 }
