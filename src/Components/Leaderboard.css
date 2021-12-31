@@ -1,0 +1,30 @@
+.leader-background{
+    width:50vw;
+    min-height:90vh;
+    height: 90vh;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.columns-display{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.main{
+    font-family: 'pixel';
+    font-size: 3em;
+}
+
+.subtitle{
+    font-family: 'pixel';
+    font-size:2em
+}
+
+.title-block{
+    align-self: center;
+    text-align: center;
+}
